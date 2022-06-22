@@ -9,7 +9,7 @@ export default function App() {
         This project was coded by Rosalie Monroy Wolfe and is open-sourced&nbsp;
         <a
           href="https://github.com/SkittleFairy/react-weather-project"
-          target="_blank"
+          rel="noreferrer"
         >
           GitHub
         </a>
