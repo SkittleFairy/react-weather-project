@@ -6,7 +6,7 @@ export default function App() {
     <div className="App">
       React Weather App
       <footer>
-        This project was coded by Rosalie Monroy Wolfe and is open-sourced&nbsp;
+        This project was coded by Rosalie Monroy Wolfe and is open-source{""}
         <a
           href="https://github.com/SkittleFairy/react-weather-project"
           rel="noreferrer"
